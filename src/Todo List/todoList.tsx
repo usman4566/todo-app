@@ -60,7 +60,7 @@ const TodoList: React.FC = () => {
   return (
     <div className="container1">
       <div className="text-center">
-        <h1 className="mt-5" style={h1Style}>
+        <h1 className="mt-3" style={h1Style}>
           Todo List
         </h1>
 
