@@ -1,3 +1,13 @@
 .custom-input {
-    border: 1px solid black; 
-  }
+  border: 1px solid black;
+}
+
+.container1 {
+  background-color: #f0f0f0; 
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px auto 0;
+  width: 80%; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
